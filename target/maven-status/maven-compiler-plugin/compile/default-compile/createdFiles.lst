@@ -1,6 +1,8 @@
 edu\unl\cc\account_bank\Account_Bank.class
 edu\unl\cc\fraction\Fraction.class
 edu\unl\cc\electronic_lock\ElectronicLockExecute.class
+edu\unl\cc\Quadratic_Equation\QuadraticEquationExecute.class
+edu\unl\cc\Quadratic_Equation\QuadraticEquation.class
 edu\unl\cc\execute\JLaboratoryPractice.class
 edu\unl\cc\fraction\FractionExecute.class
 edu\unl\cc\account_bank\Bank_Execute.class
